@@ -91,10 +91,5 @@ When documenting a data science project on GitHub, it's essential to provide cle
 9. **Include Documentation:**
    Provide comments and documentation within your code to explain each step and any assumptions made during the cleaning process.
 
-10. **Testing:**
-    Lastly, ensure to test your cleaning process thoroughly to verify that the data is processed accurately.
-
-Including these steps in your README.md helps users understand how to clean and preprocess the data for analysis in your data science project.
 ```
 
-You can copy and paste this content into a new Markdown file and publish it on GitHub.
